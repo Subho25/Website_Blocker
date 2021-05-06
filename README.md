@@ -8,5 +8,3 @@
 ##### Contact me:
  [Gmail](mailto:01chandrasubhodeep@gmail.com)
  [LinkedIn](https://www.linkedin.com/in/subhodeep-chandra/)
-
-
