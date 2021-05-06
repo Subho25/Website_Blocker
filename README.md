@@ -6,7 +6,7 @@
   - _however you can modify the path for the hosts on your OS._
 
 ##### Contact me:
-    - [Gmail](mailto:01chandrasubhodeep@gmail.com)
-    - [LinkedIn](https://www.linkedin.com/in/subhodeep-chandra/)
+ [Gmail](mailto:01chandrasubhodeep@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/subhodeep-chandra/)
 
 
