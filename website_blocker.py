@@ -3,10 +3,18 @@ from datetime import datetime as dt
 hosts_path = r"C:\Windows\System32\drivers\etc\hosts"
 hosts_temp = "hosts"
 redirect = "127.0.0.1"
-website_list = ["www.facebook.com", "facebook.com", "twitter.com", "www.twitter.com", "instagram.com", "www.instagram.com"]
+website_list = [
+                "www.facebook.com",
+                "facebook.com",
+                "twitter.com",
+                "www.twitter.com",
+                "instagram.com",
+                "www.instagram.com"
+                ]
 
 while True:
-    if dt(dt.now().year,dt.now().month,dt.now().day,8) < dt.now() < dt(dt.now().year,dt.now().month,dt.now().day,17):
+    if dt(dt.now().year, dt.now().month, dt.now().day, 8) \
+            < dt.now() < dt(dt.now().year, dt.now().month, dt.now().day, 17):
         print("Working Hours...")
         with open(hosts_path, 'r+') as file:
             content = file.read()
